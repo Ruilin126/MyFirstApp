@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="button1">Click Me</string>
+    <string name="text1">Hello FIT2081</string>
+</resources>
